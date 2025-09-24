@@ -1,3 +1,3 @@
 #10123317_NguyenDucTinh
  #Kiem tra thuc hanh 
- Day là bài kiem tra thuc hanh
+Ket hop 2 nhanh develop +feature vao voi nhau day len develop
